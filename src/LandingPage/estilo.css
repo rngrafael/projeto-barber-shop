@@ -1,0 +1,84 @@
+header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+header div{
+    width: 100%;
+    max-width: 1024px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.modo-claro{
+    background-color: #fff;
+    color: #000;
+}
+
+.modo-escuro{
+    background-color: #252323;
+    color: #fff;
+}
+
+
+.topo .img-logo{
+    height: 100px;
+}
+
+.topo button{
+    width: 70px;
+    border-radius: 17px;
+    display: flex;
+    border: 1px solid #B2987D;
+    padding: 4px;
+    
+}
+
+button img{
+    width: 26px;
+}
+
+button p{
+    margin: auto;
+}
+
+.secao-banner{
+    background-image: url('/public/assets/banner-barbearia.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 400px;
+    background-position: center center;
+    margin: 0;
+}
+
+
+.secao-informacoes{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 60px 0;
+}
+
+.secao-informacoes div{
+    width: 800px;
+    text-align: center;
+}
+
+.secao-informacoes h1{
+    margin: 0 0 15px;
+}
+
+.secao-informacoes p:first-of-type{
+    font-weight: bold;
+    margin-bottom: 12px;
+}
+
+.secao-informacoes p:last-of-type{
+    margin-top: 50px;
+    font-family: 'Great Vibes';
+    font-size: 36px;
+    color:#B2987D;
+}

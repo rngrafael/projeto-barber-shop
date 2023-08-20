@@ -1,0 +1,69 @@
+TÍTULO DA PÁGINA
+BarberShop
+
+Nomes do Botão da Landing Page
+Dark / Light
+
+Seção texto da Landing Page:
+
+<titulo> Bem-vindo a Barber Shop (font poppins)
+
+<paragrafo >Nossa barbearia sempre oferece profissionais de qualidade e estamos prontos para lidar com suas maiores expectativas. (font poppins)
+
+<paragrafo> Nossos serviços são dedicados ao seu sucesso pessoal. Aqui temos uma equipe premiada que demonstrou o talento de mestres barbeiros em vários concursos de estilo. Deixe nosso barbeiro ser seu estilista pessoal e você nunca ficará desapontado. (font poppins)
+
+<pagagrafo> S. Kelly (font Great vibes)
+
+
+1º passo - ok
+2º passo - ok
+3º passo - ok
+4º passo - ok
+5º passo - ok
+6º passo - ok
+7º passo - ok
+topo
+- ao clicar no botão a página é alterado para escuro e o botão tbm é alterado
+- borda do botão do topo tem a cor #B2987D
+
+1º seção
+contém um banner
+2º seção
+contém informações
+opção light
+- Cor de fundo #fff
+- Cor do titulo #000
+- cor nome #B2987D
+opção dark
+- Cor de fundo #252323
+- Cor do titulo #fff
+- cor nome #B2987D
+
+a tela deve se adaptar 
+Laptop - 1024px
+tablet - 768px
+mobile - 375px
+
+excluir arquivos desnecessarios - feito
+app.test.js
+index.css
+logo.svg
+reportWebVitals.js
+
+em index.js
+excluir - feito
+import './index.css';
+import report...
+
+em App.js
+excluir - feito
+import Logo
+import App
+toda estrutura dentro header
+
+criar pasta assets dentro public e colocar as imagens - feito
+
+criar a pasta LandingPage dentro de  src - feito
+criar os arquivos index.js e estilo.css - feito
+
+
