@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/projeto-barber-shop/static/css/main.0b2ccc4a.css",
+    "main.js": "/projeto-barber-shop/static/js/main.c82518a3.js",
+    "static/media/banner-barbearia.jpg": "/projeto-barber-shop/static/media/banner-barbearia.6e5abe93cc1c1bbbc2d0.jpg",
+    "index.html": "/projeto-barber-shop/index.html",
+    "main.0b2ccc4a.css.map": "/projeto-barber-shop/static/css/main.0b2ccc4a.css.map",
+    "main.c82518a3.js.map": "/projeto-barber-shop/static/js/main.c82518a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b2ccc4a.css",
+    "static/js/main.c82518a3.js"
+  ]
+}
